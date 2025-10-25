@@ -13,7 +13,7 @@
 <br>
 
 [![Website](https://img.shields.io/badge/🌐_devintellect.co.uk-Visit_Us-CDE735?style=for-the-badge&labelColor=1a1a1a&color=CDE735)](https://www.devintellect.co.uk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-CDE735?style=for-the-badge&logo=linkedin&logoColor=1a1a1a&labelColor=1a1a1a&color=CDE735)](https://www.linkedin.com/company/dev-intellect/about)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-CDE735?style=for-the-badge&logo=linkedin&logoColor=1a1a1a&labelColor=1a1a1a&color=CDE735)](https://www.linkedin.com/company/thedevintellect/about)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-CDE735?style=for-the-badge&logo=gmail&logoColor=1a1a1a&labelColor=1a1a1a&color=CDE735)](mailto:contact@devintellect.co.uk)
 
 <br>
@@ -513,7 +513,7 @@ That's what separates tools from platforms. Features from systems. Projects from
 <img src="https://img.shields.io/badge/devintellect.co.uk-Visit_Website-CDE735?style=for-the-badge&labelColor=1a1a1a" height="40"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/company/dev-intellect/about">
+<a href="https://www.linkedin.com/company/thedevintellect/about">
 <img src="https://img.shields.io/badge/LinkedIn-Follow_Us-CDE735?style=for-the-badge&logo=linkedin&logoColor=1a1a1a&labelColor=1a1a1a" height="40"/>
 </a>
 &nbsp;&nbsp;
@@ -521,8 +521,8 @@ That's what separates tools from platforms. Features from systems. Projects from
 <img src="https://img.shields.io/badge/Twitter-@thedevintellect-CDE735?style=for-the-badge&logo=x&logoColor=1a1a1a&labelColor=1a1a1a" height="40"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/dev.intellect">
-<img src="https://img.shields.io/badge/Instagram-@dev.intellect-CDE735?style=for-the-badge&logo=instagram&logoColor=1a1a1a&labelColor=1a1a1a" height="40"/>
+<a href="https://www.instagram.com/thedevintellect">
+<img src="https://img.shields.io/badge/Instagram-@thedevintellect-CDE735?style=for-the-badge&logo=instagram&logoColor=1a1a1a&labelColor=1a1a1a" height="40"/>
 </a>
 
 <br><br>
