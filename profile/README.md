@@ -12,9 +12,9 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/🌐_devintellect.co.uk-Visit_Us-CDE735?style=for-the-badge&labelColor=1a1a1a&color=CDE735)](https://www.devintellect.co.uk)
+[![Website](https://img.shields.io/badge/🌐_thedevintellect.com-Visit_Us-CDE735?style=for-the-badge&labelColor=1a1a1a&color=CDE735)](https://www.thedevintellect.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-CDE735?style=for-the-badge&logo=linkedin&logoColor=1a1a1a&labelColor=1a1a1a&color=CDE735)](https://www.linkedin.com/company/thedevintellect/about)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-CDE735?style=for-the-badge&logo=gmail&logoColor=1a1a1a&labelColor=1a1a1a&color=CDE735)](mailto:contact@devintellect.co.uk)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-CDE735?style=for-the-badge&logo=gmail&logoColor=1a1a1a&labelColor=1a1a1a&color=CDE735)](mailto:contact@thedevintellect.com)
 
 <br>
 
@@ -501,16 +501,16 @@ That's what separates tools from platforms. Features from systems. Projects from
 
 ### 📧 **Primary Contact**
 
-<a href="mailto:contact@devintellect.co.uk">
-<img src="https://img.shields.io/badge/contact@devintellect.co.uk-Email_Us_Directly-CDE735?style=for-the-badge&logo=gmail&logoColor=1a1a1a&labelColor=1a1a1a" height="45"/>
+<a href="mailto:contact@thedevintellect.com">
+<img src="https://img.shields.io/badge/contact@thedevintellect.com-Email_Us_Directly-CDE735?style=for-the-badge&logo=gmail&logoColor=1a1a1a&labelColor=1a1a1a" height="45"/>
 </a>
 
 <br><br>
 
 ### 🌐 **Connect & Follow**
 
-<a href="https://www.devintellect.co.uk">
-<img src="https://img.shields.io/badge/devintellect.co.uk-Visit_Website-CDE735?style=for-the-badge&labelColor=1a1a1a" height="40"/>
+<a href="https://www.thedevintellect.com">
+<img src="https://img.shields.io/badge/thedevintellect.com-Visit_Website-CDE735?style=for-the-badge&labelColor=1a1a1a" height="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/company/thedevintellect/about">
